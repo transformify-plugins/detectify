@@ -1,2 +1,2 @@
 # spotify
-Python image spot finding plugin
+Python image spot detection plugin
